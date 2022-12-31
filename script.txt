@@ -1,0 +1,6 @@
+<?php
+
+echo "welcome" . $_POST['first_name'];
+echo "your mail address is" . $_POST['email'];
+
+?>
